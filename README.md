@@ -16,3 +16,7 @@
 - # Учебные задания
 - [Linux и сервисы](https://drive.google.com/drive/folders/1lNwYLLXb7y2P0Avy34XCo1mq91nbxVfI?usp=drive_link)
 - [dbeaver](https://drive.google.com/drive/folders/1LnLGFPRuIvghKcByfYsvQ3lljjO9Gtrf?usp=drive_link)
+
+- # Дополнительные задания( ИП )
+- [ProxMox](https://drive.google.com/drive/folders/1jn6SO8tjpTpwJx9YOtFE9rLuY4-U-nKi?usp=drive_link)
+- [Игра](https://drive.google.com/drive/folders/14mrCPdu_K_EXQdZPiHP0zSbY5TkLYu2U?usp=drive_link)
