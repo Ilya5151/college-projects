@@ -12,3 +12,7 @@
 - [Резюме](https://drive.google.com/drive/folders/15HLZTQFnZJGGyWG3dY9NCAoZeDB1nnpc?usp=drive_link)
 - [Настройка корпоративного подключения к Интернету – анализ требований организации, выбор оптимальной технологии и тарифа, настройка маршрутизатора](https://drive.google.com/drive/folders/1SQD9q0ZZRYFcMQzOLxQkVyo2xwqSWL1q?usp=drive_link)
 - [Инсталляция и настройка ПО в реальных условиях – установка РЕД ОС, настройка политик безопасности, пользователей, обновлений.](https://drive.google.com/drive/folders/1kdVbdKGNqes_0wKJVzHUfhPLRneBjYjj?usp=drive_link)
+
+- # Учебные задания
+- [Linux и сервисы](https://drive.google.com/drive/folders/1lNwYLLXb7y2P0Avy34XCo1mq91nbxVfI?usp=drive_link)
+- [dbeaver](https://drive.google.com/drive/folders/1LnLGFPRuIvghKcByfYsvQ3lljjO9Gtrf?usp=drive_link)
